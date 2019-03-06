@@ -1,6 +1,6 @@
 \header {
-  title = "NXHR"
-  composer = "Composer"
+  title = "那些花儿"
+  composer = "朴树"
 }
 
 \score {
